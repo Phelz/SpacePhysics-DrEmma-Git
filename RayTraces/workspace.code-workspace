@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": "..\\..\\SpacePhysics-DrEmma"
+		},
+		{
+			"path": ".."
+		}
+	],
+	"settings": {
+		"jupyter.jupyterServerType": "local"
+	}
+}
